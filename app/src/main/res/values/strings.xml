@@ -3,4 +3,11 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Sunny_Jokes">
+        <item>Its Bloody Hot</item>
+        <item>Dear weather stop showing off!, We get it!, You are HOT</item>
+        <item>Im glad that its hot enough to complain about how hot it is</item>
+        <item>The heat index is somewhere between OMG and WTF</item>
+    </string-array>
+
 </resources>
